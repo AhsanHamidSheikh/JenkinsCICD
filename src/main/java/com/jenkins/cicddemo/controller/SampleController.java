@@ -8,6 +8,6 @@ public class SampleController {
 
     @RequestMapping("/")
     public String get(){
-        return "Sample Controller app is working 1";
+        return "Sample Controller app";
     }
 }
