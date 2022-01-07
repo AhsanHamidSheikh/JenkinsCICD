@@ -8,6 +8,6 @@ public class SampleController {
 
     @RequestMapping("/")
     public String get(){
-        return "The Deployment Has Been Successful";
+        return "The Job Has Been Successful";
     }
 }
